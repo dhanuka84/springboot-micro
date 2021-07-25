@@ -1,0 +1,10 @@
+
+
+mvn archetype:generate -DarchetypeGroupId=com.baeldung.archetypes
+                       -DarchetypeArtifactId=maven-archetype
+                       -DarchetypeVersion=1.0-SNAPSHOT
+                       -DgroupId=org.reactor.k8s.micro
+                       -DartifactId=springboot-micro
+                       -Dversion=1.0-SNAPSHOT
+
+
